@@ -1,0 +1,24 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+%opening
+\title{FLISoL\\Introducción a la programación\\
+(Con Python)}
+\author{José Vidal Cardona Rosas\\
+vrosas832@gmail.com}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    Actualmente aprender a programar se esta volviendo algo más obligatorio
+    que opcional, independientemente de si tu perfil es el de un Arquitecto,
+    un matematico o el de un estudiante de ciencias de la computación. Aprender
+    a programar es fundamental en un mundo rodeado por tecnología y en constante
+    cambio.
+\end{abstract}
+
+\section{}
+
+\end{document}
