@@ -1,4 +1,4 @@
-# LearnCodeFLISoL
+# Introduction to programming
 ## Contributors
 - José Vidal Cardona Rosas 
 ## Contact Information
