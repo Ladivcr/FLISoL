@@ -1,2 +1,0 @@
-\beamer@sectionintoc {1}{Esquema de la pl\IeC {\'a}tica}{2}{0}{1}
-\beamer@sectionintoc {2}{Definiciones}{3}{0}{2}
